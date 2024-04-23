@@ -437,9 +437,12 @@ I can explain from our side. Whenever we receive confidential information, we tr
 
 In addition, we warrant what [?] said about Chinese authorities and whether we can trust them. I mean, for us as well, when we want to protect the athletes, why should I test them, report them positive, knowing that this will cause lots of problems to cover them later? So if I wanted to, I would not go this way, like the Russians did; before they report the positive, they remove them from the system so we could not see them. So this is where all these things that we discussed with the experience we have in our department is to identify any indications, and I can promise you if we find any indication that something is wrong, we would go after it. But in this case, with the information we currently have, we would not do anything different.
 
-══════════
+
+## journalist 
 [French]
 
+## Olivier Rabin
+[French]
 
 ## Raj Ganesan
 Thank you. Mr. Rabin, thank you very much for that. Last few questions now. We have Raj Ganesan, and the last question will be from Sonia Abad. We are way over time, unfortunately.
