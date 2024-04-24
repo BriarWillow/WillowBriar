@@ -1,5 +1,6 @@
-# WADA press conference
+# WADA press conference (22 Apr 2024)
 
+Source: https://www.wada-ama.org/en/news/wada-publishes-media-conference-recording-regarding-environmental-contamination-case-swimmers
 
 ## James Fitzgerald
 Okay, thank you very much. Good morning, good afternoon, good evening to you all from wherever you are joining us. Welcome to this WADA media conference. My name is James Fitzgerald. I'm head of media relations at the World Antidoping Agency. As you know, there's been a lot of coverage in the media in the past few days following the publication of a story in the New York Times about a contamination case involving 23 swimmers from China in 2021. Clearly, there are many outstanding questions that members of the media have at this time. So we're pleased to be here to give you an outline of exactly what happened at each stage of the process and to answer those questions.
@@ -15,10 +16,8 @@ Having spoken and length with our science department, legal offers department, o
 
 WADA reviews every case and does not hesitate to take an appeal to the CAS as appropriate. We've done this successfully many times in the past and we continue to do so. We look at it on a case-by-case basis and considering all aspects of this particular case, the decision was taken not to appeal to CAS. Why not? We had no evidence of wrongdoing to present, and no credible way to disprove the contamination theory that was accepted by the ChinADA, a position that was also accepted by World Aquatics. In short, if you had taken such an appeal and challenged the contamination explanation, we would certainly have lost. That was the advice of our internal experts and the external legal counsel. That is the end result, everything that I've heard and seen since then leads me to be convinced that we made the correct decision. We are pleased to be here today with you to explain fully the circumstances that led us to that conclusion. It is, however, important before I conclude, to insist on the fact that based on the current evidence and still today, we are talking here about a case of environmental contamination that involves innocent athletes and not a doping case involving cheaters. Since this story was published, I've seen some critical comments that are clearly politically motivated. The fact is we apply the same standards and procedures regardless of the nationality of the athletes. For those who think we might be soft on Chinese athletes, it is worth pointing out that at about the same time our experts were reviewing this case in 2021, we were also at the CAS vigorously pursuing justice in the case of another swimmer from China, Sun Yang. So we will continue to protect in sport without fear or favor. And with that I would like to hand over to our experts to walk you through the facts of this case. Thank you.
 
-
 ## James Fitzgerald
 Thank you very much. Now I'll pass over to WADA General Counsel Ross Wenzel, who will go through some of the chronology of this case.
-
 
 ## Ross Wenzel
 Thank you very much Witold and James and everyone for joining. I, as James said, have been General Counsel of WADA. I took up that position at the beginning of 2022. And prior to that for over a decade I was in private practice external counsel to WADA and a number of other sports organizations. I was one of the lawyers in 2020, before I joined WADA, that was involved in reviewing this case externally.
@@ -26,10 +25,12 @@ Thank you very much Witold and James and everyone for joining. I, as James said,
 I've dedicated my career to fighting for clean sport, and I take serious umbrage to any suggestion that I or any organization that I work for might be involved in some sort of cover-up of doping or even a lenient handling of the doping case for political reasons. I can honestly say that having prosecuted hundreds of cases for uh since 2010, most of them as external counsel, I've never once been subject to any sort of political or other interference. We've taken cases in that period of time against Polish athletes, Chinese athletes, U.S athletes, Canadian athletes, Swiss athletes, and athletes frankly from just about any other country that you can imagine.
 
 With that said, now turning as James said to the chronology of these trimetazidine cases — I might often use the abbreviation TMZ because it's a bit of a mouthful. So Chinada collected 60 urine samples at a national swimming competition between the 1st and 3rd of January of 2021. After certain delays due to Covid, the samples were reported into WADA's information management system ADAMS on or around the 15th of March 2021. And there were 28 AAFs, adverse analytical findings, for TMZ, and these involved 23 different athletes, meaning that a small number of them, five or so, tested positive twice. In early April 2021, CHINADA informed WADA that it had initiated an investigation into the source of the TMZ and that it was conducting this investigation with the assistance of the public health authorities in China.
- And from the outset, from April onwards, when WADA was advised of these cases, it was clear that there were indications that these cases could be a case of group contamination. And let me go through some of those indications. The first is that we were, of course, dealing with 28 positives, 23 athletes from different regions of China, different coaches, different swimming clubs. All of those athletes were in the same place at the same time the positives arose. And all of the sample results were consistently low levels. And Professor Rabin, WADA's Senior Director of Science, will give further detail on that when he addresses you shortly.
+
+And from the outset, from April onwards, when WADA was advised of these cases, it was clear that there were indications that these cases could be a case of group contamination. And let me go through some of those indications. The first is that we were, of course, dealing with 28 positives, 23 athletes from different regions of China, different coaches, different swimming clubs. All of those athletes were in the same place at the same time the positives arose. And all of the sample results were consistently low levels. And Professor Rabin, WADA's Senior Director of Science, will give further detail on that when he addresses you shortly.
 
 And perhaps one of the most important points is that, as I said, a number of these athletes were tested on multiple occasions. Some of them were tested on three occasions in consecutive days, and the results often varied between positive and negative. So positive, negative, positive, negative, negative, positive. And always at these low levels. ANd whereas Professor Rabin will address you in more detail on this, ultimately these fluctuating negative, positive results were not compatible with deliberate ingestion, not even micro dosing.
- And I will also mention as another element that indicated that this could be a contamination as opposed to a deliberate ingestion of the prohibited substances was that certain athletes that participated in this event were staying at different hotels. The only athletes that tested positive were the ones that were staying at the hotel where the trimetazidine was ultimately found in the kitchen.
+
+And I will also mention as another element that indicated that this could be a contamination as opposed to a deliberate ingestion of the prohibited substances was that certain athletes that participated in this event were staying at different hotels. The only athletes that tested positive were the ones that were staying at the hotel where the trimetazidine was ultimately found in the kitchen.
 
 So we were advised, as I mentioned in April, that an investigation was underway. By the end of May, I believe the last day of May, if memory serves me correctly, the preliminary results of that investigation were made known by Chinada to WADA. And as I've already alluded to, the result of that investigation was the trimetazidine had been found at various places in the kitchen of one of the hotels where the athletes were staying, both in spice containers in the extraction unit above the hall, and also in certain drainage units
 
@@ -39,8 +40,7 @@ A few days after being notified of that decision on the 15th of June, 2021, WADA
 
 And indeed, the legal advice from the external lawyers, including myself at the time, but also a barrister from the UK, which thoroughly reviewed this case, including the scientific evidence and the opinions that were given by the various experts, was that an appeal to CAS was not warranted. And this advice was provided to WADA in mid-July, or early to mid-July, 2021.
 
-So that was the chronology. I appreciate that there are further legal questions that have been raised by the media in the last few days, but before addressing some of those questions, I'll pass the floor back to James, perhaps, perhaps to give the floor to Professor Raban.
-
+So that was the chronology. I appreciate that there are further legal questions that have been raised by the media in the last few days, but before addressing some of those questions, I'll pass the floor back to James, perhaps, perhaps to give the floor to Professor Rabin.
 
 ## James Fitzgerald
 So you've heard a bit of the chronology there, and we'll come back to Ross in a few minutes to talk more on those legal points that he mentioned, but now I'd like to hand over to our senior director of science, Professor Olivier Rabin.
@@ -64,10 +64,8 @@ I will add that during the data review process, I've been in contact with a scie
 
 I would finally say that in the IRD program, there was a scientist who had been involved in reviewing the dossier and the case, and the experiments he conducted also considered that a contamination scenario is probable. So, this concludes my presentation. I will now conclude my intervention and back to you, James.
 
-
 ## James Fitzgerald
 Thank you. Thank you very much, Professor Rabin. I hope that explains some of the science behind this story. I will go back now to Mr. Wenzel, who will explain some more from the legal point of view.
-
 
 ## Ross Wenzel
 Thank you, James, and thank you, Olivier. I set out the chronology when I spoke earlier, and you've now heard the details of the scientific review that was conducted. I will now try and answer some of the more legal questions that have been raised in the media over the past few days.
@@ -95,13 +93,13 @@ So let me be clear that even if we had lodged that appeal, the athletes would ha
 And so, ultimately, we took the view that appealing these cases, when we accepted that the athletes were innocent, had no fault in order to get a decision perhaps one year later that there was a technical anti doping rule violation with no fault, simply did not make sense and wasn't fair. It wasn't fair on the athletes in particular, because it would have forced the athletes to respond on the eve of the Tokyo Olympics games, to legal proceedings against them, despite the fact that it was recognized that they bore no fault.
 
 And let me also say that WADA has never, at least since I've been involved with WADA's litigation since 2010, appealed a case of no anti-doping rule violation in order to obtain a finding of no fault violation; that has never happened. I also want to stress that this case is not without precedent. There are other examples, often involving contamination of groups of athletes, food or environmental contamination. There are multiple examples in the past involving WADA, where an ADO (Anti-Doping Organization) has decided not to bring forward the case as a result of the violation of the law, and WADA, whether or not it would have agreed technically with that approach under the code, has decided not to appeal in order to obtain a finding of no fault.
- To give one example — and obviously, I won't give names or nationalities — there was a case involving a significant group, more than 10 athletes, that occurred on US soil in 2014. After investigation, the case was described by the results management authority, and also WADA accepted this, as meat contamination. That case did not give rise to a provisional suspension of any kind on any of the athletes, and also, it was not proceeded with as an anti-doping violation.
- That concludes my presentation, James, at this stage.
 
+To give one example — and obviously, I won't give names or nationalities — there was a case involving a significant group, more than 10 athletes, that occurred on US soil in 2014. After investigation, the case was described by the results management authority, and also WADA accepted this, as meat contamination. That case did not give rise to a provisional suspension of any kind on any of the athletes, and also, it was not proceeded with as an anti-doping violation.
+
+That concludes my presentation, James, at this stage.
 
 ## James Fitzgerald 
 okay thank you very much um questions are starting to come in from the media but before we take those um I'd like to to uh hand over to our director of intelligence and investigation, Günter Younger, who will give his perspective from the INI side of this particular story
-
 
 ## Günter Younger
 Thank you, thank you, James, and good day to everyone on this call. Let me explain the situation from the Intelligence Investigations Department's point of view, and let me start by talking about the confidential information that we have received related to this case.
@@ -116,11 +114,8 @@ And please allow me also to comment on our colleagues from USADA who completely 
 
 Finally, all this information was shared confidentiality to protect sources, their information and ensure athletes' personal information does not find itself in the public forum. We always put the confidentiality of sources and our partners first. We are deeply concerned by leaked confidential information that has the potential to endanger our biggest assets, which are our whistleblowers. I hope that our partners feel the same way. Thank you.
 
-
 ## James Fitzgerald
 Thank you very much, Gunther. So that gives you some background information, quite detailed I would say, but I'm sure there are still, well, I know there are still some questions as well coming in so far. So just to reiterate, this is an opportunity for journalists only to ask questions. If those journalists do have a question, please raise your virtual hand in the normal way. Once you've been recognized, you'll be asked to unmute yourself, maybe just wait a couple of seconds so the system can catch up. Then please do give your name, the name of your outlet, and then go ahead and ask your question. Please keep the questions short. We want to get through as many as we can. And so I would, I will start the ball rolling here. Let me just check who is looking. We'll start with Graham Dunbar. Graham, please unmute yourself and you can ask your question.
-
-
 
 ## Graham Dunbar
 Okay. Thank you, James. I hope you can hear me. [Yes, go ahead.] Thank you. A question I think for Olivier Niggli, just on the optics of the fact that China has been the most generous donor to WADA in the past few years, maybe that was because they had a Winter Olympics approaching. Are you comfortable with the optics of those billion dollar donations over and above what other nations were giving WADA?
@@ -135,30 +130,25 @@ Okay. Thank you for that question, Graham. We'll move next to Wakako Yuki. Wakak
 ## Wakako Yuki
 Okay. Thank you for the opportunity. And thank you for the detailed explanation. Indeed. What was, may I ask, what was the report? If you could disclose, what was the background or reason that those TMZ, well, concentrate, I mean, TMZ was found in the kitchen? What was the theory that Chinada gave you? And was there any way possible for you to follow that theory up? Because this is prescribed drug. And I was a bit appalled to learn that the contamination theory, although on the side of the substance, as well as science, yes, I understand how you come up to that conclusion. At the very beginning, why at all it was found in a kitchen? Thank you.
 
-
 ## Ross Wenzel
 Perhaps I can answer that. [Yes, go ahead, Ross.] Wakako. Look, I can say a few things. The ultimate source, meaning how the TMZ got into the kitchen was not discovered. Chinada and the authorities conducted a number of interviews in order to try and explore how the substance could have gone into the kitchen. But that didn't result in anything concrete and they didn't hypothesize in their report. What I can say is that if we had appealed to the CAS to challenge the contamination scenario in circumstances where there were strong indications that this was not a deliberate ingestion but a contamination. And I'm not going to go over all of those elements again, but in particular, fluctuating negatives and positives, the low levels, etc. If WADA had made the point before CAS that the athletes had not met their burden to establish the origin of the TMZ on the balance of probabilities, given that, but also given the fact that TMZ was found in the hotel in which they were staying, I don't believe we would have even had 1% of chance to succeed in that argument. So to answer your question, I won't hypothesize as to how it might have happened. But certainly it would have been sufficient given those two things to meet the athletes burden of proof to establish the origin in their sample.
 
 Perhaps maybe just one further comment, which is that I've obviously watched the ARD documentary and seen the experiments that were done with respect to rubbing trimetazidine pills in a person's hand or dropping them down a stairwell to see if any parts broke off or rubbed off, as it were. But of course, and I'm speaking purely theoretically now, pills are often taken, they're often cut and they're often crushed before they're taken. And that indeed was the evidence, albeit not accepted, but that was the evidence that was put forward in the case of Kamila Valieva as well, in terms of the grandfather's use of the medication.
-
 
 ## James Fitzgerald
 Okay, thank you. Thank you, Wakako, for that. We'll move to Tariq Panja, please.
 Okay. Hi, can you hear me?
 Yes, go ahead, Tarek.
 
-
 ## Tariq Panja
 Thanks for the opportunity to ask a question. Just, you mentioned the COVID scenario. Could you tell us a little bit more about that? Because the tests were in January right at the start, the first three days. It took two and a half months for the test to be confirmed in March. In the Chinada report, it seems that they have said there was a 30-day COVID protocol where the test had to be frozen. What about the other month and a half? Were you wondering, did you ask them what was going on there? And then also a follow up to something Ross said, I don't know whether when you were at [Carades?] or when you were moved in house, I don't know what your involvement was. But you mentioned, because of COVID, they couldn't have hearings. But the rest of us were having multiple meetings on Zoom. Valiéva, in fact, had a hearing on Zoom. And the other thing you didn't mention in the concentration, I don't know whether it was the scientists or you, Valiéva also had extremely low levels of the TMZ in her sample. That wasn't seen as an issue. So could you just please comment on those? Thank you.
 
-
 ## Ross Wenzel
-I'll maybe deal with a few of those, Tariq, and then Olivier or Raban may or may not have something to add on the analytical side. But, you know, first of all, tremetazidine is a relatively complex analysis where additional analysis has to be conducted, for instance, to exclude that the source of the tremetazidine was lamerazine. I won't go into details unless perhaps Professor Rabah can. [Sorry, that wasn't my question.] No, no, but you asked about what else was going on in the month and a half. And what I'm trying to explain is that the analysis itself would have taken a good amount of time before obviously the analytical results could have been reported. What I meant when I was talking about the provisional hearing was that in that region, at that time, after the collection of the samples in early January, there was, and this is mentioned in the report, a breakout of COVID in that region. What I was suggesting was not that a virtual hearing couldn't have taken place, but rather that it would have been extremely difficult, if not to say impossible, for the athletes individually and separately to start trying to investigate the source of the tremetazidine, for instance, by engaging scientists or others to conduct experiments at the hotel. That was what I meant. And therefore, it made sense that instead of a provisional hearing in the usual sense of an athlete looking to discover the source and providing explanations to the anti-doping organisation, it made sense that it be done centrally by those that had access to the relevant facilities.
+I'll maybe deal with a few of those, Tariq, and then Olivier or Rabin may or may not have something to add on the analytical side. But, you know, first of all, tremetazidine is a relatively complex analysis where additional analysis has to be conducted, for instance, to exclude that the source of the tremetazidine was lamerazine. I won't go into details unless perhaps Professor Rabah can. [Sorry, that wasn't my question.] No, no, but you asked about what else was going on in the month and a half. And what I'm trying to explain is that the analysis itself would have taken a good amount of time before obviously the analytical results could have been reported. What I meant when I was talking about the provisional hearing was that in that region, at that time, after the collection of the samples in early January, there was, and this is mentioned in the report, a breakout of COVID in that region. What I was suggesting was not that a virtual hearing couldn't have taken place, but rather that it would have been extremely difficult, if not to say impossible, for the athletes individually and separately to start trying to investigate the source of the tremetazidine, for instance, by engaging scientists or others to conduct experiments at the hotel. That was what I meant. And therefore, it made sense that instead of a provisional hearing in the usual sense of an athlete looking to discover the source and providing explanations to the anti-doping organisation, it made sense that it be done centrally by those that had access to the relevant facilities.
 
 And with respect to your third comment, which is the concentration in the Kamila Valieva case, it is public; it's in the decision. It was 2.1 nanograms per ml. The vast majority of the concentrations in this case were significantly lower than that. But the fundamental point is not that one. The fundamental point is that in the Valieva case, there was nothing to exclude that that was the end of an excretion, that the pharmacological dose of tremetazidine hadn't been taken several days before. In this case, the fluctuating negative and positive values of those athletes, that were tested on multiple occasions, effectively excluded that pharmacological dose scenario. So that's a significant difference with the Valieva case.
 
 The other significant difference with the Valieva case is that ultimately the explanation that Ms. Valieva put forward initially for the CAS ad hoc tribunal in Beijing was not supported by the pharmacokinetics, by the excretion profile of Tremetazidine at all. She then, her story, her explanation then evolved to a strawberry dessert that had been given to her by her grandfather that she consumed closer to doping control. And there simply wasn't any evidence, as is set out clearly in the CAS decision on the Valieva case, of that. Whereas here we have tremetazidine that was actually detected in the kitchen of the hotel where the athletes were staying and eating. And we had no evidence of any sort of skullduggery or planting of tremetazidine. It would have been impossible for us to go to a tribunal and ask them to draw that inference without any evidence. I hope that answers some of your questions, Tarek.
-
 
 ## James Fitzgerald 
 Thank you, Ross. Professor Rabin, did you want to add to that?
@@ -166,10 +156,8 @@ Thank you, Ross. Professor Rabin, did you want to add to that?
 ## Olivier Rabin 
 Just one brief point to add to what Ross just said, is that during the pandemic, there was a protocol that was requested from anti-doping laboratories, including, of course, the Beijing laboratory that did conduct the analyses. As you will appreciate, when we talk about urine samples or blood samples, there is an obvious biohazard related to the presence of this SARS-CoV-2 virus during the COVID-19 pandemic. And we established a protocol to ask the laboratories to freeze the samples at minus 20 degrees Celsius for at least two weeks, in order for them to receive information whether any of the athletes was positive for SARS-CoV-2 and their sample would present a biohazard risk. So for at least two weeks and often more, samples were frozen during that period of time by the anti-doping laboratories, so that does also explain the additional time to conduct the analysis. Thank you.
 
-
 ## James Fitzgerald
 Thank you professor and thanks for the question Tarek. Next question is from Craig Lord. Please unmute yourself and go ahead.
-
 
 ## Craig Lord 
 Hi, hello, can you hear me? [Yes, Craig, go ahead.] Hi, thanks, it's really a question of trust. Obviously, you have to treat all your partners and countries in similar ways, but do you have any concerns that taking the word of a Chinese state security operation, and that is what effectively those are the people who tested the whether there was a presence of anything in the hotel, they are the people feeding you this information. It didn't come directly from Chinada; it came from state security services. Do you not have any concerns that that doesn't give you a good enough neutral view of what's actually happened?
@@ -189,18 +177,14 @@ Okay, thank you. So maybe on that first point that Thierry was making, Professor
 ## Olivier Rabin 
 Yes, thank you. What is important to understand is, yes, we received information from China, but well beyond the information we received, we conducted our own analysis of the information and also, in particular, based on the urinary concentrations and the profiles in the urine that were collected from the athletes who tested positive. And as I said, and as I explained, beyond this, we did calculations, we looked very deep into the pharmacokinetic and the pharmacology of trimetazidine, and there was no reason to believe from this independent information and independent review that there was any way to question the contamination aspect. So, it's not just the information we received from China; it's also our own information, the collection of this information, the deep analysis of this information conducted with external scientists independent from WADA who are very knowledgeable in the substance and the use of the substance and its expression, that we came to our conclusion. So it's not just based on what we received from China. I want to insist on this. Thank you.
 
-
 ## James Fitzgerald
 Okay, thank you. And, uh, I think Mr. Banka, you've been asked about any potential changes to the code following this case.
-
 
 ## Witold Banka 
 Currently, we are under the revision of our code and we have a broader consultation. So, if it's necessary, we are always open to review our rules to strengthen the anti-doping system. But in this particular case, I would like to stress again that we follow the process and we don't see any room for improvement when it comes to this particular process.
 
-
 ## James Fitzgerald
 Okay, thank you. Next question from Alan Abramson.
-
 
 ## Alan Abramson 
 Good morning everyone. I note that there were other hotels. This seems to have been missed out on in much of, if not all of the reporting that I've seen so far. Do you all have any ideas how many other hotels there were and how many athletes there were in total involved in this entire episode? Thanks, and thanks for the opportunity to ask this question and have this news conference. Thanks.
@@ -239,19 +223,18 @@ Yes, thank you. To me, what is important to understand is that contamination is 
 
 As we've seen also in the ARD report, it's quite possible to have a contamination with trimetazidine, in particular if you crush the substance, I mean the pills, if you cut the pills or for whatever reason, if you put them in a liquid and let them dissolve before consumption. So all these elements are plausible in the global context of contamination.
 
-
 ## James Fitzgerald
 Thank you very much. Thanks for the question. Next question is from Nick Butler.
 
 ## Nick Butler & Hajo Seppelt
 
 Hi James, Nick Butler and Hajo Seppelt here. Thank you very much that you give us the opportunity to talk to you. It's the first time since a couple of years that WADA is talking to us now. Thank you for this opportunity. [Well, hang on.] I would like to continue, James. [We had a conference a couple of months ago.] Yes, can I say what I want. Can I say what I want. Thank you so much.
- So the first question is, and maybe you can help me to understand that. Do you really want to tell us that WADA is trusting in a secret service intelligence unit from China who claims, and you say there's no other evidence, if you could trust in the evidence of a secret service, who maybe made up the story that there have been some traces of triamcinolone on the surface of some parts of the kitchen, after two and a half months, because after two and a half months still to find in the kitchen some traces of TMZ is, from my point of view, completely unrealistic, because in the meantime, there should have been some cleaning in the kitchen and not in two and a half months nothing has happened in that kitchen. I cannot believe that you trust in that information which comes from the Secret Service intelligence unit. That's the first question.
+
+So the first question is, and maybe you can help me to understand that. Do you really want to tell us that WADA is trusting in a secret service intelligence unit from China who claims, and you say there's no other evidence, if you could trust in the evidence of a secret service, who maybe made up the story that there have been some traces of triamcinolone on the surface of some parts of the kitchen, after two and a half months, because after two and a half months still to find in the kitchen some traces of TMZ is, from my point of view, completely unrealistic, because in the meantime, there should have been some cleaning in the kitchen and not in two and a half months nothing has happened in that kitchen. I cannot believe that you trust in that information which comes from the Secret Service intelligence unit. That's the first question.
 
 The second question is, I have the feeling that you, to a certain degree, try to confuse the audience here because, for example, you talk about the positive, negative, positive, negatives all over the place. And my feeling is that maybe you should also not leave out that we are talking about concentrations of TMZ which are close to the detection level, that means sometimes above, sometimes below the level, and if you are dehydrated or if you have more fluid in your body, that can happen. That you have, if you talk about low concentrations, and every scientist we talked to beforehand has confirmed that to us. These are biochemical experts on the same level as Olivier, who confirmed to us that it can happen if you have low levels, that it might switch from positive to negative and positive again. This doesn't explain, from my point of view, that this must be a contamination on the spot. It's also possible that it might occur because of doping which has been taking place a couple of weeks before, at least a couple of days before.
 
 The last question I have is, we have pointed out in our documentary that there has been much less testing, much less testing in urine in the days and let's say three weeks before the competition. If you read the CHINADA report, or I would call it the intelligence report carefully, then you can see there has been an enormous amount of testing, at least relatively, in September, October, December. We have got this information also from other sources, confirmed. But in the days before the competition, there has been much lower, less testing. So, it's an ideal time window if you want to dope. You can do it at this place. Thank you so much.
-
 
 ## James Fitzgerald
 Okay, thank you, Hajo. It's always a pleasure to welcome ARD to our press conference as we did six weeks ago in [?]. Next, yeah, would Professor Rabin like to respond to that or Ross?
@@ -264,7 +247,6 @@ So, I operate based on the evidence. And I've been clear, in my opinion, that gi
 With respect to the limit of detection, I'll let Professor Rabin add anything to that. I'll let him come back. But that was one of the number. And I went through them before, five or six elements that all pointed towards contamination in this case.
 
 And with respect to your last point, I saw that in the documentary. I don't know the exact testing figures. You didn't give them in the documentary, but I would say this. And that thesis assumes that the CHINADA is withholding tests at a period when it believes the athletes are doping. Not only is there no evidence of that, but it would then be remarkable that CHINADA, when the athletes were still positive at this competition, would conduct 60 urine tests, giving rise to 28 adverse analytical findings involving 23 athletes and report them into ADAMS. Thank you.
-
 
 ## Olivier Rabin
 Yes, if I may add to the answers from Ross, to the questions from Hajo and Nick, I mean, first of all, at the risk of repeating myself, we didn't just take the information coming from China as a fait accompli. We also conducted our own analysis of the situation, including and vastly based upon the reporting by the Beijing Anti-Doping Laboratory. That obviously didn't hide information because all the concentrations and cases were reported into ADAMS from the beginning.
@@ -291,7 +273,6 @@ Okay, thank you. Mr. Younger, would you respond to the intelligence, please?
 ## Gunter Younger
 Yeah, absolutely. So yeah, I can confirm we have received in 2020 an intelligence report or a confidential report about Chinese swimmers. And it was the same scenario that we had with the other intelligence reports, that they all were not hidden, they all were in the system like they had to be.
 
-
 ## James Fitzgerald
 Okay, thank you. Next is Simon Evans from AFP. Simon?
 
@@ -310,7 +291,6 @@ But what is clear is that some of the comments that have been made, which sugges
 
 I would also suggest that it will be for Gunter and his colleagues to decide that we are dealing here also with serious breaches of the confidentiality provisions that are set out in the code and the International Standard for Results Management as well as the International Standard on Privacy and Data Protection. Confidential documents have been leaked to the public or the media and that will also be something that will require investigation, I would have thought, but that would be for Gunter and his colleagues to decide. I'll pass the floor back.
 
-
 ## Witold Banka
 Maybe just one small comment about the political motivations. So I have to say that from our perspective, looking at the comments which were on social media and the official statements made by USADA, it's obvious that most of the comments are politically motivated, without any evidence that there was something on our side wrong.
 
@@ -319,7 +299,8 @@ Okay, thank you. Next question is from Jonathan Crane.
 
 ## Jonathan Crane
 Yeah, can you hear me? Yes, Jonathan, we can. Yeah, Jonathan Crane from Deutsche Welle in Germany. Just a couple of things. I mean, you said you'd do the same thing all over again. So even if the COVID pandemic hadn't happened, would you still not have gone into China to investigate or would you have gone in?
- And then the second one, just mentioning WADA's reputation. I mean, a lot of people are still going to have credibility issues with some of the explanations. So what do you say to those athletes who are going to be competing against some of these Chinese women in Paris and, you know, are worried that they're not going to be competing on a level playing field. They don't have trust in the system.
+
+And then the second one, just mentioning WADA's reputation. I mean, a lot of people are still going to have credibility issues with some of the explanations. So what do you say to those athletes who are going to be competing against some of these Chinese women in Paris and, you know, are worried that they're not going to be competing on a level playing field. They don't have trust in the system.
 
 ## James Fitzgerald Okay, thank you. Russ?
 
@@ -328,10 +309,8 @@ I mean, look, it was Witold that said that we would have done the same thing aga
 
 I think that, you know, in terms of what one can say to athletes, you know, this is something that this is an explanation that WADA, and not only WADA but also World Aquatics, scrutinized extremely carefully. That will be clear from what Professor Rabin has said and what I've said. And ultimately, based on a number of contextual elements, factual elements, but also on the science, we concluded that this was a case of innocent exposure. And, you know, that is our genuine conclusion with respect to what happened here based on the evidence that we had then and still have now. And therefore, athletes from other countries that are competing against these athletes should not have concerns. These were athletes that we have to assume were innocently exposed to trimetazidine contamination.
 
-
 ## Olivier Niggli
 If I may just add one thing there, I think it's extremely important here to make this distinction, because the question, the way it's asked, infers that we are dealing with cheaters who may have been allowed to compete, and this is not what we're talking about. We're talking about just the opposite, which is that the system having protected a number of innocent athletes from being taken out of the sport. And I think you're all going to have to reflect on the fact that we have a very tough system in anti-doping. There's a lot of burden on the athletes, but we're also receiving regular calls, including from the US a lot, on the fact that we have to protect innocent athletes. And that's an example where, you know, based on the evidence that is available, which you may or may not believe, but that's the only one that's there, the system has allowed to protect a number of innocent athletes from being, you know, kicked out of the system. So the system works both ways and that's what has to be remembered.
-
 
 ## James Fitzgerald
 Okay, thank you. Next question is from Tom Schad.
@@ -354,7 +333,6 @@ Okay, thank you very much. Next question is from Edmund... Edmund Wilson. Edmund
 ## Edmund Wilson
 Yeah, so Edmund Wilson. I work for various... I'm a freelancer. I work for various outlets. This is a question for Dr. Rabin. In the 2011 Alberto Contador case at CAS, in which WADA was a party and Mr. Rabin submitted a report, it was argued that the trace levels of drugs in Contador's system were from blood he had transfused into his system during the Tour de France. Contador also tested positive and negative during this competition. Did WADA assess any theories suggesting these Chinese swimming cases might have indeed been doping cases? And what were they?
 
-
 ## Ross Wenzel
 Maybe if I could jump in on that before Professor Rabin gives a science answer to that, and that is that in the Contador case, you're right, there was a negative test six or seven or eight hours before the positive test, which was at a very, very low level. And WADA's theory, although not accepted by the tribunal, was that it could have resulted from a contaminated blood bag. But the significant difference between, or the obvious difference between the Contador case and this one is that whereas in the Contador case, there was no source of the clenbuterol that was discovered, and indeed there was significant evidence that there hadn't been any contamination of meat in the region for many, many years, and that was WADA's position, in this case, whatever suspicions one might have and have been voiced today, the fact is that trimetazidine was discovered in the kitchen of the hotel where the athletes were residing and eating. So that's a significant difference, but I'll give the floor to Professor Rabin.
 
@@ -367,7 +345,6 @@ In this situation, again, we looked at all the information, we did the extra cal
 
 So, I mean, each case, when we review them, not only from the legal standpoint, but also from the scientific standpoint, stands with its own merit, and we look at them independently. And again, for the reasons Ross explained and I explained, to me, there are some very significant differences between those cases. Thank you.
 
-
 ## James Fitzgerald
 Okay, thank you very much. We're getting close to the end of the 90-minute window we had, but we'll try and get through as many questions as we can in the meantime. Tracy Holmes is on the line. Tracy, please go ahead.
 
@@ -375,7 +352,6 @@ Okay, thank you very much. We're getting close to the end of the 90-minute windo
 Thanks very much for that, and thank you very much for having this press conference and taking questions. Mine is with regard to many crises that happen inside sporting events and sports governing bodies, and it all stems from a lack of clarity at the beginning or a lack of transparency at the front end, and I'm sure that's been reflected on many times here.
 
 But I'm also wondering about, you know, obviously, there's a sense that the Chinese are guilty because of past experiences, but what about the Chinese swimmers who are not, and the impact on them when they turn up in Paris now on a pool deck? And we've already heard, you know, statements from many swimmers around the world. And so, their responsibility, with a lack of transparency from governing bodies, whether it's WADA, whether it's in Chinese swimming, etc., and the impact on innocent people everywhere, not just who are not Chinese, but Chinese as well.
-
 
 ## James Fitzgerald
 Okay, thank you, Tracy. Was there somebody you wanted to direct that question to? Can we maybe, Ross, or...
@@ -385,21 +361,17 @@ I mean, what I can say with respect to the lack of clarity is that I've been qui
 
 And again, I don't know if this goes to the point that was raised earlier. Based on a review of the evidence — the evidence that we had at the time, and that we still have, there's been nothing new since we came to the conclusion, and we have to stand by this conclusion, that these should be treated as cases of inadvertent exposure to trimetazidine, and the athletes had no fault. That I can't really say any more than that.
 
-
 ## James Fitzgerald
 Okay, thank you, Ross. Thanks for the question, Tracy. Next, we can go to Julian Linden.
 
-
 ## Julian Linden
 Hi, James. Hi, James, Julian Linden here from the Daily Telegraph in Australia. Question really for anyone who wants to answer it. Look, there are a number of athletes from different countries around the world who have already served lengthy suspensions and missed their chance of going to the Olympics when they were shown not to have deliberately cheated. Essentially, they had contaminations as well. How do you explain to them that this is not a case of double standards when they've copped long bans?
-
 
 ## James Fitzgerald
 Okay, thank you, Julian.
 
 ## Ross Wenzel 
 I mean, Julian, look, every case turns on its facts. There's contamination through a bodybuilding supplement that has warnings all over it, that you shouldn't take it, and that it may contain prohibited substances at one end of the contamination spectrum. And then there is, which might even be a case of indirect intent. And then at the other end of the spectrum, there are the environment, food contamination, contamination through intimate contact, and those, and certainly the food and the environment ones have always, almost without exception, been treated as no-fault cases. So all I can really say is that each case turns on its specific facts, and in particular, on an analysis of fault and intent.
-
 
 ## James Fitzgerald
 Okay, thank you. Next question is from Alex, Alex Azzi, from The Guardian, I think.
@@ -410,21 +382,17 @@ Hello, yes, hi, it's Alex from Swim Channel. I have a question, it's all regardi
 ## James Fitzgerald
 Okay, thank you, Alex. Ross? I mean, we've addressed the transparency question already, so...
 
-
 ## Ross Wenzel 
 I mean, I just repeat what I said, which is that the debate at the moment, raised by people like USADA, is that the code currently allows for, indeed requires, the publication of a case when it is a case of no fault violation and no fault. And the debate at the moment, raised by amongst others USADA, is in those no fault cases there shouldn't be any publication, and it's something that's being considered by the code team at the moment.
 
-
 ## Olivier Niggli 
 If I may add, it's a question about whether you want or not to expose the innocent athletes, right? We have to take into account that through publishing the names of the athletes without anti-doping rule violation, you expose the innocent athletes to and you can damage their image. So this is the discussion which is very important and our role is to protect innocent athletes as well.
-
 
 ## James Fitzgerald
 Okay, thank you. Last couple of questions now because we're over time. Paul MacInnes, Paul from The Guardian. Okay, Paul, go ahead.
 
 ## Paul MacInnes
 Thank you. It's just a sort of a procedural question. What would you have if you had had the full resources available to you to investigate this case and you had been able to go into China at that time in 2021? What would you have been able to do that you have not been able to do in this case?
-
 
 ## James Fitzgerald
 Who is your question for, Paul? Sorry, Paul, can you direct your question?
@@ -433,7 +401,6 @@ Who is your question for, Paul? Sorry, Paul, can you direct your question?
 I can explain from our side. Whenever we receive confidential information, we try to cooperate; we try to meet with the source, we try to engage with the source to understand the motivation. We try to find other sources that corroborate it and then see the threshold whether we investigate or not. But if we have, like in this case, where we have a source from different organizations saying more or less the same, we assume it was the same source, but it was not corroborated in our system, then we have the opinion from the legal and from the science department that for us, the threshold to start an investigation is not met on that.
 
 In addition, we warrant what [?] said about Chinese authorities and whether we can trust them. I mean, for us as well, when we want to protect the athletes, why should I test them, report them positive, knowing that this will cause lots of problems to cover them later? So if I wanted to, I would not go this way, like the Russians did; before they report the positive, they remove them from the system so we could not see them. So this is where all these things that we discussed with the experience we have in our department is to identify any indications, and I can promise you if we find any indication that something is wrong, we would go after it. But in this case, with the information we currently have, we would not do anything different.
-
 
 ## journalist 
 [French]
@@ -450,7 +417,6 @@ Thank you very much, James. I am speaking to you from India. When I look at the 
 ## Ross Wenzel
 Maybe I can jump in, Raj. I mean, as I said, WADA reviews somewhere between 2,000 and 3,000 decisions, anti-doping rule violation decisions per year. And a decision not to move forward with a case is one of the types of appealable decisions, and each of them is reviewed by the legal department. If we have any concerns, of course, we request the case file. We liaise with other departments. And so the answer is that each of those cases of no case to answer will be scrutinized in the same way that this case was. Thank you.
 
-
 ## Sonia Abad
 Thank you. And lastly, Sonia Abad. Sonia. Hello, dears. Thank you for taking my question. This is Sonia from [WIORI?] news agency based in UAE. I have a question, and any of you can answer. The USADA CEO, Travis, he said that under normal procedures, athletes should have been disqualified and suspended provisionally, even if the result of their positive tests could be attributed to contamination. I know you guys spoke about it, but would you please answer it?
 
@@ -459,7 +425,6 @@ Okay, thank you, Sonia. I mean, this question has been answered before, but mayb
 
 ## Ross Wenzel
 I think you've heard what I said before. It is correct that if you have an anti-doping rule violation, even with no fault, then under the rules, there would be public disclosure, and this is important — there would be disqualification of the result, the in-competition result at which the sample was collected. There would not necessarily be disqualification of subsequent results after that. And as I mentioned before, in a case like this, there would have been really no basis where WADA would have been accepting, if it had appealed, accepting that it was a case of no fault, not seeking any period of ineligibility. We wouldn't have had any basis under the case law to seek disqualification of subsequent results. The reasons why there was not a provisional suspension in this case, and why in the end WADA did not appeal against the decision of CHINADA not to move forward, I explained in detail during my presentation. Thank you.
-
 
 ## James Fitzgerald
 Thank you. Okay, thank you, Ross. We'll leave it there. We've been going for an hour and 45 minutes. I hope you found this session to be helpful, interesting, and if the media have any follow-up questions, feel free to come to me directly in the usual way, and I'll be happy to get back to you on that. In the meantime, we will be putting up a recording of this call as soon as we can get it all together. It'll be on the WADA website, and we'll put out a notification through social media on that, so you know that it's been posted. So thank you very much for your attendance, everybody, and hopefully, we will look forward to seeing you next time.
